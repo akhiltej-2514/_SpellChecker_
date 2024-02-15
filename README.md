@@ -1,4 +1,4 @@
-#Brief & Throught Process
+### Brief & Throught Process
 After started from Brueforce way to calculate Edit distance between 1000 input Strings to dict (which is 82K english corpos) it took `8min` to run :(. After reasearching a bit about all the algorithms i pick symmetric deletion algorithm and added my optimizations to move further as it is then most Practical way (spell checkers in real life never suggests a large varient of the misspelled words it makes sense to fix the max length varient i.e Edit distance) to tackle this problem statement.
 
 ## how symmetric deletion algorithm works?
