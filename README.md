@@ -36,6 +36,6 @@ For example, if "pearh" is the word being looked up, its variants are ["pearh", 
 <img width="564" alt="Screenshot 2024-02-15 at 10 07 23 PM" src="https://github.com/akhiltej-2514/Blinkit_Challange/assets/74290451/e972cb79-96a2-4cb9-aa46-4823b7d7a236">
 
 
-##Futher Improvements which can deal a 30L+ entries.
+## Futher Improvements which can deal a 30L+ entries.
 1.Using a Highly Efficient HashMap like `Dense_hash_map` by Google. which are more faster than inbuilt unordered_maps.
 2.Making multhreaded version.
