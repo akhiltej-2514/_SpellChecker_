@@ -38,5 +38,5 @@ For example, if "pearh" is the word being looked up, its variants are ["pearh", 
 
 ## Futher Improvements which can deal a 30L+ entries.
 1. Using a Highly Efficient HashMap like `Dense_hash_map` by Google. which are more faster than inbuilt unordered_maps.
-2. Making multhreaded version.
+2. Making multhreaded version or incoporating this algo in a MapReduce.
 3. Using NLP sentence semantics
